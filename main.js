@@ -1,5 +1,4 @@
 //----token link pest Karen----//
-const token = "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";
 const headers = {
   Authorization: `token ${token}`,
   Accept: "application/vnd.github.v3+json"
